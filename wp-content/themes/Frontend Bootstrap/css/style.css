@@ -1,0 +1,89 @@
+/*
+Theme Name: Test
+Theme URI: https://wordpress.org/themes/twentyseventeen/
+Author: me myself and i
+Author URI: https://wordpress.org/
+Description: Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device.
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: twentyseventeen
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+body {
+    padding-top: 70px;
+    background-color:   black;
+
+}
+
+.jumbotron{
+    font-family: "Lato Medium";
+    color: white;
+    background-color:   black;
+}
+
+.navbar-default {
+    color: white;
+    background-color: black;
+    font-family: "Lato Heavy";
+}
+
+h1 {
+    font-family: "Lato Heavy";
+    text-align: center;
+    color: white;
+}
+
+p {
+    font-family: "Lato Medium";
+    text-align: center;
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-family: "Lato Heavy";
+}
+
+
+footer {
+    font-family: "Lato Heavy";
+    padding: 60px;
+    text-align: center;
+    font-size: 8px;
+    color: white;
+
+
+}
+
+aside{
+    position: inherit;
+    float:right;
+    display: inline-block;
+    width: 10%;
+    color: white;
+}
+
+form {
+    font-family: "Lato Medium";
+    text-align: center;
+    color: white;
+}
+
+.row {
+    background-color: black;
+    text-align: center;
+    display: inline;
+    color: white;
+    
+}
+
+.thumbnail{
+    background-color: black;
+    color: white;
+}
